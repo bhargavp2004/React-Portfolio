@@ -3,7 +3,7 @@ import hms from '../Images/Hms.png';
 import Ebs from '../Images/Ebs.png';
 import Ss from '../Images/Ss.png';
 import Tms from '../Images/Tms.png';
-
+import Cms from '../Images/Cms.png';
 function Projects() {
 
   const projects = [
@@ -31,10 +31,16 @@ function Projects() {
       description: "A Web application built using MongoDb, Express, Node and React.",
       im: Tms 
     },
+    {
+      id: 5,
+      title: "College Management System",
+      description: "A Web application built using .Net Core.",
+      im: Cms 
+    }
 
   ]
   return (
-    <div className="w-full h-screen top-20 sm:top-20 md:top-0 flex flex-col items-center justify-center bg-gradient-to-br from-gray-900 to-pink-950 from-60%">
+    <div className="w-full min-h-screen sm:top-20 md:top-0 flex flex-col items-center justify-center bg-gradient-to-br from-gray-900 to-pink-950 from-60%">
       <div>
         <p className='text-white text-4xl mt-44 md:mt-0'> My Projects</p>
       </div>
