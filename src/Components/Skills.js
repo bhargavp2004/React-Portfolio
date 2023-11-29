@@ -122,7 +122,7 @@ function Skills() {
         },
     ]
     return (
-        <div className="w-full min-h-screen bg-gradient-to-br from-gray-900 to-pink-950 from-45% flex flex-col items-center justify-center">
+        <div id="skills" className="w-full min-h-screen bg-gradient-to-br from-gray-900 to-pink-950 from-45% flex flex-col items-center justify-center">
         <div className='text-gray-200 font-bold text-4xl justify-center items-center mt-2 z-0'> My Skills </div>
         <div className="grid grid-cols-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-6 gap-4 mt-4 z-0">
             {skills.map(({ id, linkName, text }) => (

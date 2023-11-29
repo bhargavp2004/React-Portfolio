@@ -6,7 +6,7 @@ import animationData from '../Animation/HomeAnimation.json';
 
 function Home() {
     return (
-        <div className="flex w-full h-screen bg-gradient-to-br from-gray-900 to-pink-950 from-45% flex-col items-center justify-center z-0">
+        <div id="home" className="flex w-full h-screen bg-gradient-to-br from-gray-900 to-pink-950 from-45% flex-col items-center justify-center z-0">
 
             <div className='flex w-full flex-col items-center md:flex-row md:justify-normal md:items-center'>
 

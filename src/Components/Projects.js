@@ -25,7 +25,7 @@ function Projects() {
       id: 3,
       title: "Space Shooter",
       description: "A game built using html, css, javascript.",
-      link : "http://bhargavp2004.pythonanywhere.com/",
+      link : "https://bhargavp2004.github.io/Space-shooter/",
       im: Ss 
     },
     {
@@ -45,7 +45,7 @@ function Projects() {
 
   ]
   return (
-    <div className="w-full min-h-screen sm:top-20 md:top-0 gap-4 flex flex-col items-center justify-center bg-gradient-to-br from-gray-900 to-pink-950 from-60%">
+    <div id="projects" className="w-full min-h-screen sm:top-20 md:top-0 gap-4 flex flex-col items-center justify-center bg-gradient-to-br from-gray-900 to-pink-950 from-60%">
       <div>
         <p className='text-white text-4xl mt-44 md:mt-0'> My Projects</p>
       </div>
