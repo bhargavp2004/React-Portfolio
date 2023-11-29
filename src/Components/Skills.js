@@ -105,6 +105,21 @@ function Skills() {
             linkName: "devicon-dart-plain colored",
             text: "Dart"
         },
+        {
+            id: 21,
+            linkName: "devicon-aftereffects-plain",
+            text: "Adobe After Effects"
+        },
+        {
+            id: 22,
+            linkName: "devicon-premierepro-plain",
+            text: "Adobe Premiere Pro"
+        },
+        {
+            id: 23,
+            linkName: "devicon-photoshop-plain",
+            text: "Photoshop"
+        },
     ]
     return (
         <div className="w-full min-h-screen bg-gradient-to-br from-gray-900 to-pink-950 from-45% flex flex-col items-center justify-center">
