@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bhargavp2004/React-Portfolio/static/css/main.1b2004e9.css",
-    "main.js": "/bhargavp2004/React-Portfolio/static/js/main.e44a8863.js",
+    "main.js": "/bhargavp2004/React-Portfolio/static/js/main.a68dc34f.js",
     "static/js/787.7da95b79.chunk.js": "/bhargavp2004/React-Portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/Hms.png": "/bhargavp2004/React-Portfolio/static/media/Hms.e2c4676c68ef948af0b4.png",
     "static/media/Tms.png": "/bhargavp2004/React-Portfolio/static/media/Tms.d20bd3f412337e2bcb9d.png",
@@ -14,11 +14,11 @@
     "static/media/Ss.png": "/bhargavp2004/React-Portfolio/static/media/Ss.7e057aff08dd001db735.png",
     "index.html": "/bhargavp2004/React-Portfolio/index.html",
     "main.1b2004e9.css.map": "/bhargavp2004/React-Portfolio/static/css/main.1b2004e9.css.map",
-    "main.e44a8863.js.map": "/bhargavp2004/React-Portfolio/static/js/main.e44a8863.js.map",
+    "main.a68dc34f.js.map": "/bhargavp2004/React-Portfolio/static/js/main.a68dc34f.js.map",
     "787.7da95b79.chunk.js.map": "/bhargavp2004/React-Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2004e9.css",
-    "static/js/main.e44a8863.js"
+    "static/js/main.a68dc34f.js"
   ]
 }
