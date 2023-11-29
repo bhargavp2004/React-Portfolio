@@ -3,6 +3,7 @@ import React from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { useState } from 'react';
 import { Link } from 'react-scroll';
+import bimage from '../Images/Bimage.png';
 
 function Navbar() {
   const [opened, setOpened] = useState(false);
@@ -17,7 +18,7 @@ function Navbar() {
     <>
       <div className='flex bg-gray-900 w-full h-14 items-center justify-between fixed border-blue-950 rounded border-b-4 border-opacity-60 z-10'>
         <div className='mx-4 font-signature text-4xl text-gray-200 font-bold'>
-          <h1>Bhargav</h1>
+          <img className="w-30 h-20" src={bimage} alt="Bhargav" />
         </div>
 
         <ul className='hidden md:flex'>

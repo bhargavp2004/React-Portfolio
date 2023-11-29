@@ -10,7 +10,7 @@ function Home() {
 
             <div className='flex w-full flex-col items-center md:flex-row md:justify-normal md:items-center'>
 
-                <div className="mx-16 mt-16 grid grid-cols-1 w-80 h-80 z-0">
+                <div className="mx-16 mt-16 grid grid-cols-1 w-80 h-80">
                     <Lottie
                         animationData={animationData}
                         loop={true}
