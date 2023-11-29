@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bhargavp2004/React-Portfolio/static/css/main.1b2004e9.css",
+    "main.js": "/bhargavp2004/React-Portfolio/static/js/main.e44a8863.js",
+    "static/js/787.7da95b79.chunk.js": "/bhargavp2004/React-Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/Hms.png": "/bhargavp2004/React-Portfolio/static/media/Hms.e2c4676c68ef948af0b4.png",
+    "static/media/Tms.png": "/bhargavp2004/React-Portfolio/static/media/Tms.d20bd3f412337e2bcb9d.png",
+    "static/media/devicon.svg?biu5f3": "/bhargavp2004/React-Portfolio/static/media/devicon.f715b4139afc5236a6e6.svg",
+    "static/media/Cms.png": "/bhargavp2004/React-Portfolio/static/media/Cms.a3f3e8b6467a92c6a15d.png",
+    "static/media/devicon.eot?biu5f3": "/bhargavp2004/React-Portfolio/static/media/devicon.afa70020fddd5e5a3260.eot",
+    "static/media/devicon.woff?biu5f3": "/bhargavp2004/React-Portfolio/static/media/devicon.96fdfd136e8a467e1861.woff",
+    "static/media/devicon.ttf?biu5f3": "/bhargavp2004/React-Portfolio/static/media/devicon.b25739c2b9d15a53d60c.ttf",
+    "static/media/Ebs.png": "/bhargavp2004/React-Portfolio/static/media/Ebs.0d8596d017ffc2a96600.png",
+    "static/media/Ss.png": "/bhargavp2004/React-Portfolio/static/media/Ss.7e057aff08dd001db735.png",
+    "index.html": "/bhargavp2004/React-Portfolio/index.html",
+    "main.1b2004e9.css.map": "/bhargavp2004/React-Portfolio/static/css/main.1b2004e9.css.map",
+    "main.e44a8863.js.map": "/bhargavp2004/React-Portfolio/static/js/main.e44a8863.js.map",
+    "787.7da95b79.chunk.js.map": "/bhargavp2004/React-Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2004e9.css",
+    "static/js/main.e44a8863.js"
+  ]
+}
