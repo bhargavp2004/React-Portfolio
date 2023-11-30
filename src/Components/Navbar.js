@@ -38,7 +38,7 @@ function Navbar() {
         <ul className='flex flex-col fixed md:hidden text-gray-200 w-full mt-14 left-0 h-screen justify-center items-center bg-gradient-to-tr from-pink-950 to-gray-900 to-90% z-50'>
           {navLinks.map(({ id, link, path }) => (
             <li key={id} className='mx-4 text-4xl py-4 cursor-pointer'>
-              <Link to={path} smooth duration={500}>{link}</Link>
+              <Link to={path} onClick={() => {setOpened(!opened)}}  smooth duration={500}>{link}</Link>
             </li>
           ))}
         </ul>
