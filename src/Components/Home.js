@@ -3,6 +3,7 @@ import React from 'react';
 import { FaInstagram, FaLinkedin } from "react-icons/fa";
 import Lottie from 'lottie-react';
 import animationData from '../Animation/HomeAnimation.json';
+import myResume from '../Documents/My_Resume.pdf';
 
 function Home() {
     return (
@@ -20,7 +21,7 @@ function Home() {
 
                
                 <div className="mt-6 md:mt-0 text-gray-200 mx-16 font-signature mb-4 md:mb-0 md:mr-8">
-                    <h1 className='text-2xl md:text-4xl mb-2'> Hello, I'm <span className='text-red-900 font-bold'>Bhargav</span></h1>
+                    <h1 className='text-2xl md:text-4xl mb-2'> Hello, I am <span className='text-red-900 font-bold'>Bhargav</span></h1>
                     <p className="text-sm md:text-2xl mb-2">I am a <span className="text-blue-600 font-bold">Web Developer</span></p>
                     <p>I'm thrilled to welcome you to my corner of the internet!</p>
 
@@ -28,7 +29,14 @@ function Home() {
                         <a className='cursor-pointer' href='https://www.instagram.com/bhargavp2004/'><FaInstagram /></a>
                         <a className="mx-4 cursor-pointer" href='https://www.linkedin.com/in/bhargav-patel-4a82b3225/'><FaLinkedin /></a>
                     </div>
+                    <div className="mt-8">
+                    <a href={myResume} download={myResume} className="p-4  bg-blue-700 cursor-pointer">
+                        Download CV
+                        </a>
+                    </div>
+                
                 </div>
+                
             </div>
         </div>
     );
