@@ -47,7 +47,7 @@ function Projects() {
   return (
     <div id="projects" className="w-full min-h-screen md:top-0 gap-4 flex flex-col items-center justify-center bg-gradient-to-br from-gray-900 to-pink-950 from-60%">
       <div>
-        <p className='text-white text-4xl mt-8 md:mt-12'> My Projects</p>
+        <p className='text-white text-4xl mt-16 md:mt-12'> My Projects</p>
       </div>
       <div className="grid h-100 gap-2 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 md:gap-4 justify-center items-center">
         {
